@@ -17,7 +17,7 @@ There are a few important concepts to know before starting to solve this problem
 3) Then what is a Node? Nodes are devices or data points on a larger network, typically a Linked List in this problem.
 4) What is a dummy node? A dummy node is a node that is used to create a Linked List while not including data relevant to the given data.
 
-Here are the Algorithm steps:
+Here are the Algorithm steps:  
 Step#1: Initialize all needed data types and open the given text files.  
 Step#2: Create new a Linked List with a node ListHead with the data “dummy”. Print the Linked List onto the output file.  
 Step#3: Retrieve data by reading a string from the input file, one String at a time.  

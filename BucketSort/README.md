@@ -7,8 +7,8 @@ The data structure for Bucket Sort is a 1-D array of linked lists.
 In order to sort each data into its respective bucket, the identity function is used to hash these buckets. What this means is that the data itself is the index within the 1-D array, and then the data is sorted using insertion sort within the linked list of each index in the 1-D array.  
 
 Given File:  
-BucketSort.cpp - C++ implementation
-data1.txt - input data
+BucketSort.cpp - C++ implementation  
+data1.txt - input data  
 
 Bucket Sort Algorithm Steps:  
 Step 0: maxSize <-- read the entire data to find the largest data.  

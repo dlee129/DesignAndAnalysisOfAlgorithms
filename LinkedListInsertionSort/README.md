@@ -18,10 +18,10 @@ There are a few important concepts to know before starting to solve this problem
 4) What is a dummy node? A dummy node is a node that is used to create a Linked List while not including data relevant to the given data.
 
 Here are the Algorithm steps:
-Step#1: Initialize all needed data types and open the given text files.
-Step#2: Create new a Linked List with a node ListHead with the data “dummy”. Print the Linked List onto the output file.
-Step#3: Retrieve data by reading a string from the input file, one String at a time.
-Step#4: Insert each String data as a node into the Linked List.
-Step#5: Print the Linked List after each data iterated through the input file.
-Step#6: Repeat Steps#3,4, and 5 while there is still new data to be read from the input file.
-Step#7: Close all opened files.
+Step#1: Initialize all needed data types and open the given text files.  
+Step#2: Create new a Linked List with a node ListHead with the data “dummy”. Print the Linked List onto the output file.  
+Step#3: Retrieve data by reading a string from the input file, one String at a time.  
+Step#4: Insert each String data as a node into the Linked List.  
+Step#5: Print the Linked List after each data iterated through the input file.  
+Step#6: Repeat Steps#3,4, and 5 while there is still new data to be read from the input file.  
+Step#7: Close all opened files.  

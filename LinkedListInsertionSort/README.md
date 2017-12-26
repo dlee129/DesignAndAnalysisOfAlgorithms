@@ -1,13 +1,14 @@
-Linked List Insertion Sort Algorithm:
+**Disclaimer
+This program will only work if you used the same format used in the insertionSort_String_Data.txt file.**
 
-Here I will describe a detailed procedure of how the Linked List Insertion Sort works as well as the algorithm it follows.
+Linked List Insertion Sort Algorithm:
 
 The problem is listed as:
 Given a file contains a list of English words, your tasks is to construct a linked list (in ascending order) for the words.  Your linked list must have a dummy node that is pointed by the listHead.
 
 Given files:
 LinkedListInsertionSort.java - Java Implementation
-LinkedListInsertionSort.cpp - Java Implementation
+LinkedListInsertionSort.cpp - C++ Implementation
 insertionSort_String_Data.txt - Given text file used to implement algorithm
 
 There are a few important concepts to know before starting to solve this problem:
